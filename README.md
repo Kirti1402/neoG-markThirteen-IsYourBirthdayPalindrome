@@ -7,4 +7,4 @@ created application where checking if birth date provided by user is palindrome 
 * JavaScript
 
 ## Live Project
-[View Project](https://isyourbirthdaypalindrome-mark13.netlify.app/)
+[IsYourBirthdayPalindrome](https://isyourbirthdaypalindrome-mark13.netlify.app/)
